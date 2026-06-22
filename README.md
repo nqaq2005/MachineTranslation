@@ -90,10 +90,8 @@ python inference.py
 
 Ví dụ khi chạy Terminal:
 
-==================================================
 🤖 CHATBOT DỊCH THUẬT (Gõ 'exit' hoặc 'quit' để thoát)
-==================================================
-
+===================================================
 📝 Nhập câu cần dịch: tôi thích học máy
 🔄 Hướng dịch (1: Việt -> Anh | 2: Anh -> Việt): 1
 🇺🇸 English: I like machine learning
